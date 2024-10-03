@@ -1,0 +1,62 @@
+q.1)Program to find the frequency of characters - 
+ input : pictureperect
+output:p-2
+i-1
+c-2
+t-2
+u-1
+r-2
+e-3
+f-1
+q.2) Program to print the elements of an array in reverse order.
+input : 1,2,3,4,5
+output : 5,4,3,2,1
+
+q.3)Program to determine whether a given number is a happy number write a method to calculate happy number
+
+Happy number
+
+The happy number can be defined as a number which will yield 1 when it is replaced by the sum of the square of its digits repeatedly. If this process results in an endless cycle of numbers containing 4, then the number is called an unhappy number.
+
+For example, 32 is a happy number as the process yields 1 as follows
+32 + 22 = 13
+12 + 32 = 10
+12 + 02 = 1
+
+q.4 )Program to print the average of n numbers
+q.5) write a program to reverse each word in sentence
+input : "welcome to java"
+output : emoclew ot avaj
+q.6)How to check if two strings are anagrams of each other?
+input : keep, peek
+q.7 ) write a method in a program removeCharacters to remove a given character
+hint: String result = removeCharacters(inputString, ch)
+removeCharacters("palak", 'a')
+q.8) How to swap two strings without using the third variable?
+  input :
+  s1 : one
+  s2 : two
+  output:
+   s1: two
+   s2 : one
+hint : s1 = s1+ s2
+       s2 = s1.substring (0, (s1.length() - s2.lenth())
+       s1 = s1.substring(s2.length())
+
+q.9) Program to reverse a String 
+
+q.10)Create a mini-application for a banking system in Java.Add some basic functionalities of a bank account like a deposit of amount, withdrawal of amount, etc.
+
+
+the program accepts the number of customers we need to add, adds the customer and account details accordingly. Further, it displays the series of menus to operate over the accounts.
+
+The series of menus displayed are as follows:
+
+Display all account details
+Search by account number
+Deposit the amount
+Withdraw the amount
+Exit
+
+
+
