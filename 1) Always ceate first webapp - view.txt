@@ -1,0 +1,19 @@
+1) Always ceate first webapp -> views->indx.jsp
+2) Add jasper accroding to tomcat version
+
+Try to design  textutil app in react where you can apply all the concepts that are covered so far
+make 2 components header (menu) and Userform and render the components in index.js
+use bootstrap to design userform add all the required links inside index.html
+inside Userform use some text box where user will enter some text 
+1) convert text in uppercase (toUpperCase) on click of button (convert uppercase)
+2)convert text in lowercase (toLowerCase) on click of button (convert lowercase)
+
+3) count of chars in text  on click of button (count chars)
+
+4) count of words(count words)
+
+use useState ,setText
+
+
+
+ 
